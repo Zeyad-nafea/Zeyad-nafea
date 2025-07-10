@@ -8,9 +8,10 @@
 
 ### Connect with me:
 
-[![Email - dark](https://img.icons8.com/ios-filled/50/ffffff/gmail-new.png#gh-dark-mode-only)](mailto:s-zeyad@zewailcity.edu.eg)
+[![Email - dark](https://img.icons8.com/ios-filled/50/ffffff/gmail-new.png)](mailto:s-zeyad@zewailcity.edu.eg)
 &nbsp;&nbsp;
-[![LinkedIn - dark](https://img.icons8.com/ios-filled/50/ffffff/linkedin.png#gh-dark-mode-only)](https://linkedin.com/in/zeyadnafea)
+[![LinkedIn - dark](https://img.icons8.com/ios-filled/50/ffffff/linkedin.png)](https://linkedin.com/in/zeyadnafea)
+
 
 ### Languages and Tools:
 
