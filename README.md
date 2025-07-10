@@ -10,8 +10,7 @@
 
 [![Email - dark](https://img.icons8.com/ios-filled/50/ffffff/gmail-new.png)](mailto:s-zeyad@zewailcity.edu.eg)
 &nbsp;&nbsp;
-[![LinkedIn - dark](https://img.icons8.com/ios-filled/50/ffffff/linkedin.png)](https://linkedin.com/in/zeyadnafea)
-
+[![LinkedIn - dark](https://img.icons8.com/ios-filled/50/ffffff/linkedin.png)](https://www.linkedin.com/in/zeyad-nafea)
 
 ### Languages and Tools:
 
