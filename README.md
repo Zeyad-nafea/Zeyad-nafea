@@ -1,35 +1,63 @@
-# Hi there, I'm zeyad👋 
+# Hey there! I'm Zeyad 👋
 
-- 🎓 CS student @ Zewail City of Science and Technology
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for internships
-- 🥅 2025 Goals: Build more projects!
-- ⚡ Fun fact: I’m a Junior Teaching Assistant in Data Acquisition
+![Profile Views](https://komarev.com/ghpvc/?username=Zeyad-nafea&color=blue)
 
-### Connect with me:
+## 🚀 About Me
 
-[![Email - dark](https://img.icons8.com/ios-filled/50/ffffff/gmail-new.png)](mailto:s-zeyad@zewailcity.edu.eg)
-&nbsp;&nbsp;
-[![LinkedIn - dark](https://img.icons8.com/ios-filled/50/ffffff/linkedin.png)](https://www.linkedin.com/in/zeyad-nafea)
+I'm a Computer Science student at **Zewail City of Science and Technology**, passionate about turning ideas into code and constantly exploring new technologies. As a Junior Teaching Assistant in Data Acquisition, I love sharing knowledge as much as I love gaining it.
 
-### Languages and Tools:
+- 🎯 Currently on the hunt for exciting internship opportunities
+- 💡 Always learning, always building
+- 🎓 Teaching Assistant in Data Acquisition - helping others learn is my superpower
+- 🌟 2025 Mission: Ship more projects and contribute to open source
 
-<!-- VS Code -->
-[<img align="left" alt="VS Code - dark" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg#gh-dark-mode-only" style="padding-right:10px;" />]()
+## 💻 Tech Stack
 
-<!-- Python -->
-[<img align="left" alt="Python - dark" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg#gh-dark-mode-only" style="padding-right:10px;" />]()
+**Languages & Tools I Work With:**
 
-<!-- C++ -->
-[<img align="left" alt="C++ - dark" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg#gh-dark-mode-only" style="padding-right:10px;" />]()
+```python
+skills = {
+    "languages": ["Python", "C++"],
+    "tools": ["VS Code", "Git", "GitHub"],
+    "currently_exploring": ["Everything! 🚀"],
+    "status": "Open to opportunities"
+}
+```
 
-<!-- GitHub -->
-[<img align="left" alt="GitHub - dark" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/Zeyad-nafea#gh-dark-mode-only)
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" alt="GitHub" width="40" height="40"/>
+</p>
 
-<!-- Git -->
-[<img align="left" alt="Git - dark" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg#gh-dark-mode-only" style="padding-right:10px;" />]()
+## 📊 GitHub Stats
 
-<br />
-<br />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Zeyad-nafea&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeyad-nafea&theme=tokyonight" alt="GitHub Streak" height="165">
+</p>
+
+## 🤝 Let's Connect!
+
+I'm always excited to collaborate on interesting projects or just chat about tech!
+
+<p align="left">
+<a href="mailto:s-zeyad@zewailcity.edu.eg">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/zeyad-nafea">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+</p>
 
 ---
+
+<p align="center">
+<i>"The best way to predict the future is to create it."</i>
+</p>
+
+<p align="center">
+💼 Open for internship opportunities | 🌱 Always learning | 🚀 Building cool stuff
+</p>
