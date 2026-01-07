@@ -1,35 +1,24 @@
-# Hi there, I'm zeyad 👋
-![Profile Views](https://komarev.com/ghpvc/?username=Zeyad-nafea&color=blue)
-- 🎓 CS student @ Zewail City of Science and Technology
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for internships
-- 🥅 2025 Goals: Build more projects!
-- ⚡ Fun fact: I’m a Junior Teaching Assistant in Data Acquisition
-### Connect with me:
-[![Email - dark](https://img.icons8.com/ios-filled/50/ffffff/gmail-new.png)](mailto:s-zeyad@zewailcity.edu.eg)
-&nbsp;&nbsp;
-[![LinkedIn - dark](https://img.icons8.com/ios-filled/50/ffffff/linkedin.png)](https://www.linkedin.com/in/zeyad-nafea)
-### Languages and Tools:
-<!-- VS Code -->
-<img align="left" alt="VS Code" width="26px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-style="padding-right:10px;" />
-<!-- Python -->
-<img align="left" alt="Python" width="26px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-style="padding-right:10px;" />
-<!-- C++ -->
-<img align="left" alt="C++" width="26px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-style="padding-right:10px;" />
-<!-- GitHub -->
-<img align="left" alt="GitHub" width="26px"
-src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"
-style="padding-right:10px;" />
-<!-- Git -->
-<img align="left" alt="Git" width="26px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-style="padding-right:10px;" />
-<br />
-<br />
+# 💫 About Me:
+🎓 DSAI student @ Zewail City of Science and Technology<br><br>📊 Interested in data acquisition, machine learning, and data science<br><br>🚀 Open to internships
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zeyad-nafea/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:s-zeyad.nafea@zewailcity.edu.eg) 
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Zeyad-nafea&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Zeyad-nafea&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeyad-nafea&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Zeyad-nafea&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Zeyad-nafea&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ---
+[![](https://visitcount.itsvg.in/api?id=Zeyad-nafea&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
