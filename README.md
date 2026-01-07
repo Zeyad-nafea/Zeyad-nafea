@@ -21,11 +21,7 @@
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Zeyad-nafea&show_icons=true&theme=shadow_blue)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zeyad-nafea&show_icons=true&theme=shadow_blue&cache_seconds=1800)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeyad-nafea&layout=compact&theme=shadow_blue)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeyad-nafea&layout=compact&theme=shadow_blue&cache_seconds=1800)
 
-
----
-[![](https://visitcount.itsvg.in/api?id=Zeyad-nafea&icon=0&color=0)](https://visitcount.itsvg.in)
